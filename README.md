@@ -1,0 +1,3 @@
+# DummySetupAssistant
+
+![Screenshot](Screenshot.png)
